@@ -1,6 +1,6 @@
 # nEE
 
-Run everything from the project root (open `nEE.Rproj`).
+Run everything from the project root (open `nEE.Rproj`; create one if this does not exist).
 
 ```
 ZVCV_engine.R, getXfast.cpp   ensemble ZVCV engine

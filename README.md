@@ -1,4 +1,4 @@
-# nEE
+# Ensemble ZVCV engine
 
 Run everything from the project root (open `nEE.Rproj`; create one if this does not exist).
 
